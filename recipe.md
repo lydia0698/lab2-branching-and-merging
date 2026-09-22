@@ -14,7 +14,7 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 - 1/2 cup vegetable oil
 - 2 teaspoons vanilla extract
 - 3/4 cup unsweetened cocoa powder
-- 1 cup dark chocolate chips
+- 1 cup dark chocolate
 
 ## Filling
 
